@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="357" viewBox="0 0 840 357" role="img" aria-labelledby="title desc">
+<title id="title">Jeevan's public GitHub repositories</title>
+<desc id="desc">On 21 November 2026, 5 of 10 public repositories had JavaScript as their primary language, 1 had Java, and 4 had no primary language listed.</desc>
+<rect x="1" y="1" width="838" height="222" rx="18" fill="#101b32" stroke="#344661"/>
+<g font-family="system-ui,Arial,sans-serif">
+<text x="32" y="40" fill="#76e8f4" font-size="21" font-weight="700">GitHub at a glance</text>
+<text x="32" y="121" fill="#fff4dc" font-size="74" font-weight="750">10</text>
+<text x="35" y="156" fill="#ebedf8" font-size="21">public repositories</text>
+<text x="35" y="194" fill="#afbcd3" font-size="15">21 November 2026</text>
+<path d="M330 28V196" stroke="#344661"/>
+<text x="368" y="68" fill="#ebedf8" font-size="22" font-weight="650">Primary language by repository</text>
+<svg x="368" y="94" width="435" height="15" viewBox="0 0 435 15"><rect width="217.5" height="15" fill="#66ddec"/><rect x="217.5" width="43.5" height="15" fill="#ffa35b"/><rect x="261" width="174" height="15" fill="#788cae"/></svg>
+<g font-size="19" fill="#ebedf8"><circle cx="375" cy="140" r="6" fill="#66ddec"/><text x="391" y="146">JavaScript · 5</text><circle cx="592" cy="140" r="6" fill="#ffa35b"/><text x="608" y="146">Java · 1</text><circle cx="375" cy="179" r="6" fill="#788cae"/><text x="391" y="185">Unclassified · 4</text></g></g>
+<defs><symbol id="cup" viewBox="0 0 32 32"><path d="M9 4h14v7c0 5-3 8-6 9v4h5v3H10v-3h5v-4c-3-1-6-4-6-9zm-1 2H3v4c0 5 3 8 8 8M24 6h5v4c0 5-3 8-8 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol></defs>
+<rect x="1" y="237" width="838" height="119" rx="18" fill="#101b32" stroke="#344661"/>
+<g font-family="system-ui,Arial,sans-serif"><text x="32" y="271" fill="#76e8f4" font-size="19" font-weight="700">Project milestones</text>
+<g fill="#fff4dc" font-weight="650" font-size="19">
+<use href="#cup" x="30" y="290" width="35" height="35" color="#ffad65"/><text x="76" y="308">SpendWise</text>
+<use href="#cup" x="301" y="290" width="35" height="35" color="#78dfef"/><text x="347" y="308">Safelytics</text>
+<use href="#cup" x="568" y="290" width="35" height="35" color="#cab4ff"/><text x="614" y="308">Storefront</text></g>
+<g fill="#b9c7da" font-size="15"><text x="76" y="332">User-scoped API</text><text x="347" y="332">Explainable scoring</text><text x="614" y="332">Cart and checkout</text></g></g></svg>
